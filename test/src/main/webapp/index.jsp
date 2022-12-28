@@ -8,5 +8,6 @@
 </head>
 <body>
 	github 수업시간 테스트입니다.
+	수정중입니다.
 </body>
 </html>
