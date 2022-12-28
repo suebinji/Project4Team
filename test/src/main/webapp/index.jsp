@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 	github 수업시간 테스트입니다.
 	수정1입니다.수빈
     김강호입니다
@@ -19,5 +20,8 @@
     수정 수정 확인
     수정 수정 수정
     수정 수정 수정 수정
+=======
+fgffgfgfgf
+>>>>>>> master
 </body>
 </html>
